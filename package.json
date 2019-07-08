@@ -1,0 +1,28 @@
+{
+  "name": "graphql-demo",
+  "version": "1.0.0",
+  "description": "Demo of GraphQL",
+  "main": "app2.js",
+  "repository" :
+  { "type" : "git", 
+    "url" : "https://github.com/mkuehne-git/graphql-quick-start.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon"
+  },
+  "keywords": [
+    "GraphQL"
+  ],
+  "author": "Martin Kühne",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-graphql": "^0.8.0",
+    "graphql": "^14.4.2"
+  },
+  "devDependencies": {
+    "eslint": "^6.0.1",
+    "nodemon": "^1.19.1"
+  }
+}
