@@ -1,6 +1,6 @@
 # graphql-quick-start
 
-This is a very simple node demo for `graphQL` using a variant of the author/books example.
+This is a very simple node demo for `graphQL` based on a frequently used author/books example. Since authors are writing books this example shows a one to many relationship.
 
 The demo contains three apps:
 
@@ -29,7 +29,6 @@ The demo contains three apps:
   }
 }
 ```
-
 ## Authors
 
 - **Martin Kühne** - [graphql-quick-start](https://github.com/mkuehne-git/graphql-quick-start)
